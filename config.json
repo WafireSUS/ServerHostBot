@@ -1,0 +1,9 @@
+{
+	"ip":"ohsv.aternos.me",
+	"port": 38809,
+	"name": "ServerHostBot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 123123123 123123123",
+	"login-cmd":"/login 123123123"
+}
