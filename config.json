@@ -1,7 +1,7 @@
 {
 	"ip":"ohsv.aternos.me",
 	"port": 38809,
-	"name": "Server",
+	"name": "Mojang",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 123123123 123123123",
